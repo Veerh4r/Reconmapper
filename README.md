@@ -14,8 +14,8 @@ every finding so you can report fast.
 
 ## Installation
 
-git clone https://github.com/birdao/HexStrike-ReconMapper
-cd HexStrike-ReconMapper
+git clone https://github.com/B5970/Reconmapper.git
+cd ReconMapper
 pip install requests beautifulsoup4
 
 ## Usage
