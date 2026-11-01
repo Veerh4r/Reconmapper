@@ -2,7 +2,7 @@
 Map target URLs, detect map services, and extract hardcoded 
 API keys from JavaScript bundles for bug bounty hunting.
 
-[📖 About](#about) • [🏗️ Installation](#installation) • [⛏️ Usage](#usage) • [🚀 Examples](#examples)
+📖 About • 🏗️ Installation • ⛏️ Usage• 🚀 Examples
 
 ## About
 
