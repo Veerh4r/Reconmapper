@@ -14,7 +14,7 @@ every finding so you can report fast.
 
 ## Installation
 
-git clone https://github.com/B5970/Reconmapper.git
+git clone https://github.com/Veerh4r/Reconmapper.git
 cd ReconMapper
 pip install requests beautifulsoup4
 
